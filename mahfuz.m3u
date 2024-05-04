@@ -24,3 +24,5 @@ http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8WxF0Gp/mobile-logo-889093001687255310.png" group-title="Toffee", Toffee highlights
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7yhwr2D/img-1-1714811882594.webp" group-title="Sports", IPL ViP
+http://103.151.60.214:7444/1000/video.m3u8
