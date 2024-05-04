@@ -1,10 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxFxSGgd/atn-bangla-bangla-tv-bangladesh-television-star-jalsha-ntv-discovery-hd-bangla-discovery-inc-discove.png" group-title="Bangla", Discovery Hindi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxFxSGgd/atn-bangla-bangla-tv-bangladesh-television-star-jalsha-ntv-discovery-hd-bangla-discovery-inc-discove.png" group-title="Indian Bangla", Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYBVBNFV/1280px-svg.png" group-title="Bangla", Somoy tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYBVBNFV/1280px-svg.png" group-title="News", Somoy tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7yhwr2D/img-1-1714811882594.webp" group-title="Sports", T-Sports 1
 https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7yhwr2D/img-1-1714811882594.webp" group-title="Sports", IPL
 https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YkHJr97/dbc-news-live-24-7-logo.jpg" group-title="News", DBC NEWS
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
