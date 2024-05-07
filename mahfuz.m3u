@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHHxWj3j/IMG-20240228-204534-642.jpg" group-title="Sports", GTV VIP
+http://103.151.60.214:7444/1102/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxFxSGgd/atn-bangla-bangla-tv-bangladesh-television-star-jalsha-ntv-discovery-hd-bangla-discovery-inc-discove.png" group-title="Indian Bangla", Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYBVBNFV/1280px-svg.png" group-title="News", Somoy tv
