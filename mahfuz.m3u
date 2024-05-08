@@ -65,3 +65,5 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="entertainment",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHX1_DABBuuuXI-31r4mUM1XM1wRER48kmZ13Yv21pjq2i-rYevtorULy&s=10" group-title="Toffee", Toffee highlights
+http://xtv.ooo:8080/live/415663775/826262627/167551.ts
