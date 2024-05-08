@@ -67,3 +67,5 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHX1_DABBuuuXI-31r4mUM1XM1wRER48kmZ13Yv21pjq2i-rYevtorULy&s=10" group-title="Toffee", Toffee highlights
 http://xtv.ooo:8080/live/415663775/826262627/167551.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyq2uLXoR_cu59R3NW4uVI5JxaN0oiCZh6vw&usqp=CAU" group-title="islamic", Madani Channel
+https://ythls.armelin.one/channel/UC0AMtPKwU61uDs--L04_kfQ.m3u8
