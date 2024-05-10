@@ -1,7 +1,3 @@
-
-script for youtube to m3u8
-Share
-
 async function dashUrl(ytUrl) {
   return await fetch(ytUrl)
     .then(async (r) => await r.text())
