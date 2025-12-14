@@ -18,7 +18,7 @@ https://bdtubelive.xyz/yupptv-hd.m3u8?id=wow-kidz-hindi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNVqCS80/Discovery-Kids-Logo-2021-Presente-webp.png" group-title="Kids", Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPzYnXT1/POGO-logo.png" group-title="Kids", Discovery Kids
-https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+http://203.18.158.217:8007/proxy/m3u8/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV5c64Zt/Enterr10.png" group-title="Indian Bangla", Colours Bangla HD
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0RKrZSQ/2018-Animal-Planet-logo-svg.png" group-title="Animal", animal planet
