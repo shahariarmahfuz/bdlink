@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="News", Somoy TV
-https://ythls-v2.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+http://203.18.158.217:8007/proxy/m3u8/1.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HB_K5ZUcWFfYBcST4buqJ_Oq3g16g4F8jbWLV3jrytGLcWks9ld0R_8ccdxDS_9gqPyP=w600-h300-pc0xffffff-pd" group-title="News", Jamuna TV
 https://ythls-v2.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SN5R2c_9uZrppnfXYz5NCXtsSMgYCHhV5hmUkoX8HR7aTY2zHPnzBY8mDJsG27Ip_O9d7tqRCw=s176-c-k-c0x00ffffff-no-rj" group-title="News", Rtv News
