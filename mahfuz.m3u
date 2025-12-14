@@ -4,11 +4,11 @@ http://203.18.158.217:8006/static/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxFxSGgd/atn-bangla-bangla-tv-bangladesh-television-star-jalsha-ntv-discovery-hd-bangla-discovery-inc-discove.png" group-title="Indian Bangla", Discovery Bangla
 http://203.18.158.217:8006/static/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYBVBNFV/1280px-svg.png" group-title="News", Somoy tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715324539/ei/G3I9ZsneJp7_juMP7uKfsAw/ip/103.145.133.152/id/GySsvQCMVBE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51103729/txs/51103729%2C51103730%2C51113346/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/hightc/yes/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Chightc%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMCneYFhvKWB6MWb9B91tK5inDxXfTkeeXWRTwh-uVdIAiEA_Sd7lz-lDfnu1XOrFu5lmhga_6doSB5xOopWHPQ2no8%3D/file/index.m3u8
+_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51103729/txs/51103729%2C51103730%2C51113346/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/hightc/yes/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Chightc%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMCneYFhvKWB6MWb9B91tK5inDxXfTkeeXWRTwh-uVdIAiEA_Sd7lz-lDfnu1XOrFu5lmhga_6doSB5xOopWHPQ2no8%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7yhwr2D/img-1-1714811882594.webp" group-title="Sports", T-Sports 1
 https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7yhwr2D/img-1-1714811882594.webp" group-title="Sports", IPL
-https://live-cdn.tsports.com/live-02/index.m3u8
+http://203.18.158.217:8006/static/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YkHJr97/dbc-news-live-24-7-logo.jpg" group-title="News", DBC NEWS
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvMTxbzM/CARTOON-NETWORK-logo.png" group-title="Kids", CN HINDI
